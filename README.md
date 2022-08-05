@@ -18,7 +18,7 @@
 <br>
 <strong>+ Hide your code</strong>
 <br>
-<strong>+ Junk code</strong>
+<strong>+ Your Python program will only be a few milliseconds slower</strong>
 <br>
 ![tool](https://media.discordapp.net/attachments/1003851444279070791/1004904841325334639/unknown.png?width=810&height=427)
 <br><br>
