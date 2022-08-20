@@ -1,6 +1,10 @@
 -----
 ### <p align="center">RegBoss</p>
+<br><br>
 
+<p align="center">
+<img src="https://media.discordapp.net/attachments/960160330749734982/1010694145997799504/oke.png", width="500", height="500">
+</p>
 <br><br>
 <p align="center">
 <strong>RegBoss its just a simple python obfuscator that can hide your code and the obfuscated code will be compressed
