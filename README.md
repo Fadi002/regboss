@@ -3,7 +3,7 @@
 <br><br>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1008571229495623740/1010695065192124467/munkster_giant_dragon_breathing_flames_upon_everything_beautifu_e741c963-057c-4b83-b1b9-5c6c7213f683.png?width=430&height=430", width="500", height="500">
+<img src="https://media.discordapp.net/attachments/960160330749734982/1010695309631946782/unknown.png", width="500", height="500">
 </p>
 <br><br>
 <p align="center">
