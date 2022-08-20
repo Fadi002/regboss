@@ -1,6 +1,6 @@
 -----
 ### <p align="center">RegBoss</p>
-<br><br>d
+<br><br>
 
 <p align="center">
 <img src="https://media.discordapp.net/attachments/960160330749734982/1010695309631946782/unknown.png", width="500", height="500">
