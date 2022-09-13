@@ -8,6 +8,7 @@
 <br><br>
 <p align="center">
 <strong>RegBoss its just a simple python obfuscator that can hide your code and the obfuscated code will be compressed
+<br>
 updated project : https://github.com/Fadi002/HyperBreak
 </strong>
 </p>
